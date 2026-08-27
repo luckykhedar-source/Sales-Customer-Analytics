@@ -1,0 +1,201 @@
+ProductID,ProductName,Category,SubCategory,Brand,UnitPrice,UnitCost
+P0001,Smartphones WorkPro 001,Electronics,Smartphones,WorkPro,2518.46,1473.99
+P0002,Accessories ValuePlus 002,Electronics,Accessories,Apex,36781.76,26079.25
+P0003,Accessories ValuePlus 003,Electronics,Accessories,PrimeHome,77095.67,51378.72
+P0004,Tablets Orbit 004,Electronics,Tablets,ValuePlus,69113.62,52444.27
+P0005,Smartphones Orbit 005,Electronics,Smartphones,Apex,70871.98,43464.3
+P0006,Tablets NovaTech 006,Electronics,Tablets,NovaTech,70954.5,48664.35
+P0007,Laptops UrbanEdge 007,Electronics,Laptops,NovaTech,59715.67,33628.3
+P0008,Smartphones UrbanEdge 008,Electronics,Smartphones,PrimeHome,86290.61,70292.63
+P0009,Laptops WorkPro 009,Electronics,Laptops,Zenith,70173.99,38626.59
+P0010,Smartphones PrimeHome 010,Electronics,Smartphones,Zenith,25007.39,13919.38
+P0011,Tablets Apex 011,Electronics,Tablets,Zenith,98333.37,58341.89
+P0012,Accessories NovaTech 012,Electronics,Accessories,Orbit,71144.42,44958.26
+P0013,Accessories Orbit 013,Electronics,Accessories,NovaTech,14515.32,11202.5
+P0014,Accessories Zenith 014,Electronics,Accessories,Orbit,48778.48,38020.96
+P0015,Tablets UrbanEdge 015,Electronics,Tablets,Orbit,68529.29,49602.51
+P0016,Accessories UrbanEdge 016,Electronics,Accessories,Orbit,20726.73,12582.4
+P0017,Accessories PrimeHome 017,Electronics,Accessories,Orbit,39541.05,28399.69
+P0018,Tablets Orbit 018,Electronics,Tablets,UrbanEdge,87067.55,68037.44
+P0019,Tablets Zenith 019,Electronics,Tablets,WorkPro,10041.15,7353.09
+P0020,Accessories Zenith 020,Electronics,Accessories,Apex,30728.81,20606.16
+P0021,Smartphones Zenith 021,Electronics,Smartphones,Apex,22508.13,13043.53
+P0022,Smartphones UrbanEdge 022,Electronics,Smartphones,WorkPro,73987.14,46145.2
+P0023,Tablets NovaTech 023,Electronics,Tablets,Zenith,27283.59,17513.29
+P0024,Laptops WorkPro 024,Electronics,Laptops,NovaTech,14840.32,10060.51
+P0025,Smartphones ValuePlus 025,Electronics,Smartphones,WorkPro,23983.47,15198.34
+P0026,Laptops ValuePlus 026,Electronics,Laptops,ValuePlus,70877.19,46957.39
+P0027,Smartphones ValuePlus 027,Electronics,Smartphones,Orbit,74626.21,54869.29
+P0028,Smartphones Orbit 028,Electronics,Smartphones,PrimeHome,41453.07,31875.03
+P0029,Smartphones ValuePlus 029,Electronics,Smartphones,PrimeHome,76996.73,43074.07
+P0030,Laptops ValuePlus 030,Electronics,Laptops,ValuePlus,55689.05,31795.05
+P0031,Tablets PrimeHome 031,Electronics,Tablets,PrimeHome,92180.74,75511.29
+P0032,Laptops Zenith 032,Electronics,Laptops,UrbanEdge,28424.79,19253.2
+P0033,Smartphones UrbanEdge 033,Electronics,Smartphones,WorkPro,70057.09,46101.58
+P0034,Laptops Orbit 034,Electronics,Laptops,PrimeHome,48150.2,30932.89
+P0035,Smartphones NovaTech 035,Electronics,Smartphones,PrimeHome,12830.86,7636.75
+P0036,Smartphones NovaTech 036,Electronics,Smartphones,UrbanEdge,80556.52,56636.94
+P0037,Accessories UrbanEdge 037,Electronics,Accessories,Apex,29570.05,19830.71
+P0038,Tablets PrimeHome 038,Electronics,Tablets,PrimeHome,24255.4,18607.65
+P0039,Laptops Zenith 039,Electronics,Laptops,UrbanEdge,61849.55,39749.51
+P0040,Accessories PrimeHome 040,Electronics,Accessories,Zenith,74732.44,43750.26
+P0041,Storage UrbanEdge 041,Furniture,Storage,NovaTech,1661.23,945.79
+P0042,Storage UrbanEdge 042,Furniture,Storage,Apex,16677.28,10058.1
+P0043,Chairs Zenith 043,Furniture,Chairs,Orbit,7050.46,4667.99
+P0044,Desks ValuePlus 044,Furniture,Desks,Apex,28294.37,22605.23
+P0045,Chairs Apex 045,Furniture,Chairs,Zenith,21558.11,13104.6
+P0046,Chairs ValuePlus 046,Furniture,Chairs,NovaTech,8781.08,4843.96
+P0047,Desks Zenith 047,Furniture,Desks,Orbit,15618.72,9891.74
+P0048,Tables Zenith 048,Furniture,Tables,Zenith,8407.69,5348.15
+P0049,Desks Orbit 049,Furniture,Desks,Orbit,4650.33,2902.0
+P0050,Storage Apex 050,Furniture,Storage,ValuePlus,8071.74,6275.9
+P0051,Storage Orbit 051,Furniture,Storage,Zenith,5832.92,4491.29
+P0052,Chairs UrbanEdge 052,Furniture,Chairs,Zenith,23215.48,16012.33
+P0053,Tables Zenith 053,Furniture,Tables,Apex,11174.99,6859.44
+P0054,Tables WorkPro 054,Furniture,Tables,Zenith,26356.33,19227.58
+P0055,Tables ValuePlus 055,Furniture,Tables,Orbit,9735.93,7423.07
+P0056,Chairs Zenith 056,Furniture,Chairs,ValuePlus,4395.48,2811.78
+P0057,Tables WorkPro 057,Furniture,Tables,WorkPro,12011.71,9456.95
+P0058,Storage NovaTech 058,Furniture,Storage,Zenith,20574.36,12081.94
+P0059,Desks PrimeHome 059,Furniture,Desks,UrbanEdge,24620.6,18896.51
+P0060,Tables Apex 060,Furniture,Tables,PrimeHome,5214.82,2900.9
+P0061,Tables Orbit 061,Furniture,Tables,NovaTech,5210.85,3797.65
+P0062,Storage Apex 062,Furniture,Storage,UrbanEdge,13419.66,8951.23
+P0063,Storage Apex 063,Furniture,Storage,Zenith,8519.68,5196.27
+P0064,Desks PrimeHome 064,Furniture,Desks,PrimeHome,28117.76,20040.07
+P0065,Storage Zenith 065,Furniture,Storage,Orbit,5235.65,3436.34
+P0066,Desks UrbanEdge 066,Furniture,Desks,WorkPro,28781.31,21207.17
+P0067,Chairs Zenith 067,Furniture,Chairs,PrimeHome,32537.77,22278.08
+P0068,Tables Apex 068,Furniture,Tables,NovaTech,27809.55,21898.56
+P0069,Chairs Orbit 069,Furniture,Chairs,Orbit,14548.78,9523.57
+P0070,Tables NovaTech 070,Furniture,Tables,WorkPro,3273.5,2613.92
+P0071,Tables UrbanEdge 071,Furniture,Tables,PrimeHome,22567.99,15302.97
+P0072,Tables ValuePlus 072,Furniture,Tables,Zenith,19531.6,14738.22
+P0073,Storage Orbit 073,Furniture,Storage,Zenith,8402.74,5446.87
+P0074,Tables Zenith 074,Furniture,Tables,Orbit,14970.52,10639.67
+P0075,Tables Zenith 075,Furniture,Tables,Zenith,18813.31,13677.47
+P0076,Storage Orbit 076,Furniture,Storage,UrbanEdge,10757.63,6578.32
+P0077,Desks Zenith 077,Furniture,Desks,UrbanEdge,17468.9,10356.65
+P0078,Chairs NovaTech 078,Furniture,Chairs,PrimeHome,15918.55,10347.4
+P0079,Storage Zenith 079,Furniture,Storage,ValuePlus,17429.88,11078.45
+P0080,Tables PrimeHome 080,Furniture,Tables,Orbit,12387.38,9528.47
+P0081,Paper UrbanEdge 081,Office Supplies,Paper,PrimeHome,1110.32,702.77
+P0082,Binders PrimeHome 082,Office Supplies,Binders,ValuePlus,937.81,517.54
+P0083,Writing Orbit 083,Office Supplies,Writing,WorkPro,1747.36,1040.49
+P0084,Organizers Zenith 084,Office Supplies,Organizers,UrbanEdge,3310.16,2505.97
+P0085,Organizers ValuePlus 085,Office Supplies,Organizers,WorkPro,2382.56,1761.92
+P0086,Paper NovaTech 086,Office Supplies,Paper,PrimeHome,2915.88,1758.8
+P0087,Organizers PrimeHome 087,Office Supplies,Organizers,ValuePlus,2497.16,1993.38
+P0088,Binders WorkPro 088,Office Supplies,Binders,PrimeHome,3343.16,2231.29
+P0089,Binders ValuePlus 089,Office Supplies,Binders,Apex,228.15,128.34
+P0090,Writing Orbit 090,Office Supplies,Writing,ValuePlus,999.64,788.54
+P0091,Paper UrbanEdge 091,Office Supplies,Paper,Orbit,820.58,505.77
+P0092,Binders Orbit 092,Office Supplies,Binders,WorkPro,4770.32,2914.15
+P0093,Writing Zenith 093,Office Supplies,Writing,Apex,649.98,453.88
+P0094,Organizers WorkPro 094,Office Supplies,Organizers,UrbanEdge,330.98,209.03
+P0095,Paper UrbanEdge 095,Office Supplies,Paper,Apex,2575.34,1608.52
+P0096,Writing Apex 096,Office Supplies,Writing,UrbanEdge,1816.79,1482.07
+P0097,Writing WorkPro 097,Office Supplies,Writing,Apex,879.65,525.24
+P0098,Writing Orbit 098,Office Supplies,Writing,WorkPro,334.13,254.49
+P0099,Binders WorkPro 099,Office Supplies,Binders,PrimeHome,1644.38,1056.99
+P0100,Paper Orbit 100,Office Supplies,Paper,ValuePlus,2984.21,2308.4
+P0101,Paper UrbanEdge 101,Office Supplies,Paper,WorkPro,1610.96,1245.07
+P0102,Organizers WorkPro 102,Office Supplies,Organizers,Apex,1660.43,990.24
+P0103,Organizers ValuePlus 103,Office Supplies,Organizers,ValuePlus,5301.54,3776.8
+P0104,Organizers PrimeHome 104,Office Supplies,Organizers,Apex,2510.14,1673.12
+P0105,Organizers Apex 105,Office Supplies,Organizers,Orbit,271.73,216.71
+P0106,Paper Orbit 106,Office Supplies,Paper,Apex,959.29,754.11
+P0107,Binders NovaTech 107,Office Supplies,Binders,Apex,306.55,220.04
+P0108,Binders ValuePlus 108,Office Supplies,Binders,WorkPro,5157.84,4084.46
+P0109,Binders Zenith 109,Office Supplies,Binders,UrbanEdge,1328.59,900.73
+P0110,Paper NovaTech 110,Office Supplies,Paper,PrimeHome,102.64,69.07
+P0111,Organizers PrimeHome 111,Office Supplies,Organizers,Zenith,4719.76,3422.72
+P0112,Binders ValuePlus 112,Office Supplies,Binders,Zenith,3687.06,2741.1
+P0113,Binders Apex 113,Office Supplies,Binders,NovaTech,282.76,170.18
+P0114,Paper UrbanEdge 114,Office Supplies,Paper,Zenith,2668.9,1470.21
+P0115,Writing PrimeHome 115,Office Supplies,Writing,Apex,4482.6,3548.55
+P0116,Binders NovaTech 116,Office Supplies,Binders,Orbit,3668.96,2890.02
+P0117,Binders Zenith 117,Office Supplies,Binders,UrbanEdge,1837.36,1138.19
+P0118,Organizers PrimeHome 118,Office Supplies,Organizers,Orbit,2116.63,1193.91
+P0119,Paper ValuePlus 119,Office Supplies,Paper,Orbit,422.96,342.57
+P0120,Writing NovaTech 120,Office Supplies,Writing,NovaTech,2079.95,1308.43
+P0121,Cleaning ValuePlus 121,Home Appliances,Cleaning,WorkPro,20305.02,13802.11
+P0122,Home Care NovaTech 122,Home Appliances,Home Care,Orbit,8983.66,6882.09
+P0123,Kitchen WorkPro 123,Home Appliances,Kitchen,NovaTech,20273.37,12158.3
+P0124,Small Appliances Orbit 124,Home Appliances,Small Appliances,PrimeHome,7152.92,4524.97
+P0125,Home Care Zenith 125,Home Appliances,Home Care,ValuePlus,1679.29,970.28
+P0126,Kitchen Apex 126,Home Appliances,Kitchen,Orbit,11186.25,8422.87
+P0127,Home Care PrimeHome 127,Home Appliances,Home Care,Apex,19688.01,14287.9
+P0128,Cleaning Orbit 128,Home Appliances,Cleaning,ValuePlus,19149.27,12227.34
+P0129,Kitchen ValuePlus 129,Home Appliances,Kitchen,ValuePlus,13667.39,10562.33
+P0130,Cleaning Apex 130,Home Appliances,Cleaning,Zenith,24827.38,14846.83
+P0131,Home Care ValuePlus 131,Home Appliances,Home Care,NovaTech,24126.86,14570.82
+P0132,Kitchen Zenith 132,Home Appliances,Kitchen,WorkPro,22636.2,14479.64
+P0133,Small Appliances Zenith 133,Home Appliances,Small Appliances,UrbanEdge,24672.15,20173.86
+P0134,Cleaning Apex 134,Home Appliances,Cleaning,PrimeHome,19675.33,14677.99
+P0135,Kitchen Orbit 135,Home Appliances,Kitchen,PrimeHome,1572.42,942.92
+P0136,Cleaning UrbanEdge 136,Home Appliances,Cleaning,WorkPro,25789.49,16586.71
+P0137,Small Appliances ValuePlus 137,Home Appliances,Small Appliances,Zenith,1542.78,884.55
+P0138,Home Care PrimeHome 138,Home Appliances,Home Care,Orbit,8538.02,6084.31
+P0139,Home Care WorkPro 139,Home Appliances,Home Care,UrbanEdge,16166.3,9968.53
+P0140,Cleaning UrbanEdge 140,Home Appliances,Cleaning,PrimeHome,9342.22,7230.37
+P0141,Home Care WorkPro 141,Home Appliances,Home Care,NovaTech,16340.75,10302.73
+P0142,Small Appliances WorkPro 142,Home Appliances,Small Appliances,ValuePlus,3608.84,2874.69
+P0143,Small Appliances PrimeHome 143,Home Appliances,Small Appliances,WorkPro,22231.72,15802.8
+P0144,Small Appliances ValuePlus 144,Home Appliances,Small Appliances,Orbit,9923.1,5838.66
+P0145,Cleaning NovaTech 145,Home Appliances,Cleaning,PrimeHome,7081.35,5478.28
+P0146,Small Appliances Apex 146,Home Appliances,Small Appliances,Zenith,21724.36,15762.27
+P0147,Cleaning ValuePlus 147,Home Appliances,Cleaning,Zenith,5125.5,3122.26
+P0148,Home Care UrbanEdge 148,Home Appliances,Home Care,UrbanEdge,8000.62,4586.11
+P0149,Cleaning NovaTech 149,Home Appliances,Cleaning,WorkPro,5851.92,4764.4
+P0150,Kitchen NovaTech 150,Home Appliances,Kitchen,NovaTech,8058.47,5928.75
+P0151,Small Appliances WorkPro 151,Home Appliances,Small Appliances,Zenith,14874.7,10401.03
+P0152,Small Appliances NovaTech 152,Home Appliances,Small Appliances,ValuePlus,21060.04,13104.93
+P0153,Small Appliances UrbanEdge 153,Home Appliances,Small Appliances,Orbit,18029.76,10068.63
+P0154,Cleaning NovaTech 154,Home Appliances,Cleaning,NovaTech,25131.59,19152.03
+P0155,Home Care UrbanEdge 155,Home Appliances,Home Care,Apex,25561.22,20462.17
+P0156,Kitchen PrimeHome 156,Home Appliances,Kitchen,NovaTech,20546.41,15359.5
+P0157,Small Appliances WorkPro 157,Home Appliances,Small Appliances,ValuePlus,1707.83,998.87
+P0158,Kitchen WorkPro 158,Home Appliances,Kitchen,PrimeHome,7317.26,5657.67
+P0159,Small Appliances Orbit 159,Home Appliances,Small Appliances,UrbanEdge,2353.35,1769.31
+P0160,Home Care UrbanEdge 160,Home Appliances,Home Care,NovaTech,5298.94,3189.0
+P0161,Team Sports PrimeHome 161,Sports,Team Sports,ValuePlus,2365.27,1336.15
+P0162,Fitness Zenith 162,Sports,Fitness,NovaTech,8756.38,6311.55
+P0163,Team Sports NovaTech 163,Sports,Team Sports,WorkPro,11545.59,7003.45
+P0164,Team Sports Orbit 164,Sports,Team Sports,PrimeHome,682.26,439.78
+P0165,Fitness Zenith 165,Sports,Fitness,Zenith,14865.1,9829.82
+P0166,Team Sports PrimeHome 166,Sports,Team Sports,PrimeHome,4410.9,3450.72
+P0167,Sportswear Zenith 167,Sports,Sportswear,Apex,690.03,411.41
+P0168,Team Sports WorkPro 168,Sports,Team Sports,WorkPro,15637.09,9311.78
+P0169,Sportswear Zenith 169,Sports,Sportswear,PrimeHome,2161.68,1462.12
+P0170,Outdoor Apex 170,Sports,Outdoor,Apex,3238.05,1908.21
+P0171,Team Sports ValuePlus 171,Sports,Team Sports,Orbit,8440.21,5284.07
+P0172,Sportswear WorkPro 172,Sports,Sportswear,ValuePlus,18959.9,12184.53
+P0173,Sportswear UrbanEdge 173,Sports,Sportswear,Apex,16495.79,10399.38
+P0174,Outdoor WorkPro 174,Sports,Outdoor,Apex,17972.04,12788.49
+P0175,Fitness UrbanEdge 175,Sports,Fitness,WorkPro,18465.58,13501.09
+P0176,Sportswear PrimeHome 176,Sports,Sportswear,Orbit,6135.21,4471.12
+P0177,Sportswear PrimeHome 177,Sports,Sportswear,PrimeHome,11402.47,9132.79
+P0178,Team Sports ValuePlus 178,Sports,Team Sports,UrbanEdge,16166.56,11782.39
+P0179,Team Sports PrimeHome 179,Sports,Team Sports,ValuePlus,2641.69,1810.44
+P0180,Sportswear Zenith 180,Sports,Sportswear,ValuePlus,18908.53,14742.73
+P0181,Outdoor WorkPro 181,Sports,Outdoor,Orbit,6518.61,4846.67
+P0182,Fitness Apex 182,Sports,Fitness,ValuePlus,9442.93,6281.6
+P0183,Outdoor NovaTech 183,Sports,Outdoor,WorkPro,10992.55,8762.39
+P0184,Fitness WorkPro 184,Sports,Fitness,Orbit,8902.38,7053.06
+P0185,Team Sports PrimeHome 185,Sports,Team Sports,Zenith,1383.22,921.05
+P0186,Team Sports ValuePlus 186,Sports,Team Sports,UrbanEdge,5716.42,4111.96
+P0187,Fitness PrimeHome 187,Sports,Fitness,PrimeHome,10105.54,6766.52
+P0188,Team Sports Apex 188,Sports,Team Sports,ValuePlus,509.13,381.04
+P0189,Fitness UrbanEdge 189,Sports,Fitness,NovaTech,7328.98,4863.5
+P0190,Sportswear UrbanEdge 190,Sports,Sportswear,Apex,5332.13,3001.93
+P0191,Fitness ValuePlus 191,Sports,Fitness,UrbanEdge,14088.39,10117.33
+P0192,Sportswear UrbanEdge 192,Sports,Sportswear,WorkPro,7557.89,5959.49
+P0193,Team Sports ValuePlus 193,Sports,Team Sports,ValuePlus,5143.45,4095.24
+P0194,Fitness UrbanEdge 194,Sports,Fitness,UrbanEdge,6965.97,4825.04
+P0195,Fitness Zenith 195,Sports,Fitness,ValuePlus,5447.54,3962.74
+P0196,Sportswear Apex 196,Sports,Sportswear,Orbit,6950.85,4791.15
+P0197,Team Sports Apex 197,Sports,Team Sports,PrimeHome,13550.77,10627.15
+P0198,Sportswear Zenith 198,Sports,Sportswear,UrbanEdge,6999.01,3981.43
+P0199,Sportswear Apex 199,Sports,Sportswear,ValuePlus,9224.08,6404.22
+P0200,Fitness Apex 200,Sports,Fitness,NovaTech,2803.92,2188.75
